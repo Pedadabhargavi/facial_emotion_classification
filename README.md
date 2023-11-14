@@ -1,1 +1,1 @@
-# facial_emotion_detection
+# facial_emotion_classification
